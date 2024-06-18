@@ -36,6 +36,9 @@ The fourth-ranked iOS 18 jailbreak page is the <a href="https://www.idownloadblo
 
 <b>Advice for Jailbreak Enthusiasts</b>: Users are advised to stay on the lowest possible firmware and avoid updates to increase the chance of future jailbreaking.
 
+![TrollStore-Logo-300x300](https://github.com/JailbreakSeeker/readme/assets/172491811/6afa006b-7583-405d-9692-d4f578800510)
+
+
 ## Redensa iTerminal Jailbreak 
 
 <a href="https://pangu8.com/ios-18-jailbreak/" target="-blank">Pangu 8 iOS 18 jailbreak</a>
