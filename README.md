@@ -48,6 +48,8 @@ Redensa is an iTerminal jailbreak compatible with the latest iPhone 15 and iPhon
 
 Another important point is the sixth-ranked iOS 18 jailbreak page also recommended Redensa iTerminal jailbreak in their list to the first.
 
+![download (2)](https://github.com/JailbreakSeeker/readme/assets/172491811/7e993b36-c4b1-4a97-90d8-f5456c447e18)
+
 
 <a href="https://xookz.com/ios-18-jailbreak/" target="-blank">Download Redensa iTerminal </a>
 
