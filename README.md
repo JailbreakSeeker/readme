@@ -17,6 +17,8 @@ UltFone is the second-ranked iOS 18 jailbreak page and the recommended jailbreak
 
 The third-ranked iOS 18 jailbreak in Google is the Tenoshare iOS 18 jailbreak page. This page is also recommended as the first iOS 18 jailbreak method as Checkra1n Mirror jailbreak.
 
+![checkra1n-logo](https://github.com/JailbreakSeeker/readme/assets/172491811/9624c16a-9ef7-4f6e-91f0-43a1235fad47)
+
 
 
 <a href="https://www.tenorshare.com/ios-18/how-to-jailbreak-ios-18.html" target="-blank">Download Checkra1n Mirror</a>
