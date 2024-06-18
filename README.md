@@ -7,6 +7,7 @@ The first-ranked iOS 18 jailbreak page in Google is a Github page named <a href=
 
 Palera1n Semi - Untethered jailbreak tool is compatible with iOS 15 - iOS 17.4.1 and the device compatibility is A9 - A11 device models.  After the release of iOS 18 Palear1n jailbreak tool will enhance the compatibility for iOS 18 jailbreak also.
 
+![favicon](https://github.com/JailbreakSeeker/readme/assets/172491811/8be75a66-05d8-4de3-997e-76f9c30fe753)
 
 
 <a href="https://palera.in/" target="-blank">Download Palera1n</a>
