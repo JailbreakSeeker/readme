@@ -25,7 +25,7 @@ The third-ranked iOS 18 jailbreak in Google is the Tenoshare iOS 18 jailbreak pa
 
 ## Trollstore 
 
-The fourth-ranked iOS 18 jailbreak page is the <a href="https://www.idownloadblog.com/2024/06/11/ios-18-security-patch-makes-trollstore-nearly-impossible/" target="-blank">IDB jailbreak page</a> . This page is highlighted below points about iOS 18 jailbreak. 
+The fourth-ranked iOS 18 jailbreak page is the IDB jailbreak page. This page is highlighted below points about iOS 18 jailbreak. 
 
 
 <b>TrollStore Developer Update</b>: The developer of TrollStore announced that new security features in iOS 18 prevent the tool from working, even if a new CoreTrust bug is discovered.
