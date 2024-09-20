@@ -41,7 +41,7 @@ The fourth-ranked iOS 18 jailbreak page is the IDB jailbreak page. This page is 
 
 ## Redensa iTerminal Jailbreak 
 
-<a href="https://pangu8.com/ios-18-jailbreak/" target="-blank">Pangu 8 iOS 18 jailbreak</a>
+<a href="https://pangu8.com/ios-18-jailbreak/" target="-blank">Pangu8 iOS 18 jailbreak</a>
  is the fifth-ranked iOS 18 jailbreak page in Google. They have mentioned the best method to jailbreak iOS 18 is Redensa Jailbreak.
 
 Redensa is an iTerminal jailbreak compatible with the latest iPhone 15 and iPhone 14 jailbreak also. You can install alternative package managers with Redensa such as Cydia lite and Sileo lite.
